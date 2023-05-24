@@ -48,7 +48,7 @@ else
     <div class="col-md-6">
     
         <div class="banner-text">
-          <p class="bt1">Welcome To</p>
+          <p class="bt1">Bienvenue à</p>
           <p class="bt2"><span class="bt3">Fashion</span>Store</p>
           <p class="bt4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et mi <br>vulputate gen vehicula maximus sagittis rhoncus tortor. Class </p>
           
